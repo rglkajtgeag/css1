@@ -1,0 +1,44 @@
+
+.food-item{
+    background-color: aqua;
+}
+
+.ingredients{
+    background-color: aquamarine;
+}
+
+.type{
+    background-color:aqua;
+}
+
+.protein{
+    background-color:aquamarine
+}
+
+.calories{
+    background-color:aqua ;
+}
+
+#making-tea{
+    background-color: beige;
+}
+
+#tea{
+    background-color:aqua;
+}
+
+#chapathi{
+    background-color: blue;
+}
+
+#potatoes{
+    background-color: cornflowerblue;
+}
+
+#biryani{
+    background-color:burlywood;
+}
+
+#two{
+    background-color: darkgoldenrod;
+}
